@@ -13,7 +13,7 @@
   'use strict';
   if (document.getElementById('el-panel')) return;
 
-  const MANIFEST = 'https://enjoythelegend.github.io/data/manifest.json';
+  const MANIFEST = 'https://enjoythelegend.github.io/EnjoytheLegenD/data/manifest.json';
 
   const panel = document.createElement('section');
   panel.id = 'el-panel';
@@ -31,7 +31,7 @@
         <div><span>tokens</span><b id="el-tokens">—</b></div>
       </div>
       <div class="el-links">
-        <a href="https://enjoythelegend.github.io/" target="_blank" rel="noopener">abrir painel</a>
+        <a href="https://enjoythelegend.github.io/EnjoytheLegenD/" target="_blank" rel="noopener">abrir painel</a>
         <a href="https://github.com/EnjoytheLegenD/opencode-brain" target="_blank" rel="noopener">cérebro</a>
         <a href="https://github.com/EnjoytheLegenD/ai-command-center" target="_blank" rel="noopener">central</a>
         <a href="http://127.0.0.1:28894" target="_blank" rel="noopener">opencode</a>
