@@ -4,11 +4,11 @@
 
 **Central pessoal de agentes, skills, conhecimento e repositórios.**
 
-[![Abrir painel](https://img.shields.io/badge/ABRIR-PAINEL-35d6f0?style=for-the-badge&logo=googlechrome&logoColor=0b1026)](https://enjoythelegend.github.io/EnjoytheLegenD/)
+[![Abrir painel](https://img.shields.io/badge/ABRIR-PAINEL-35d6f0?style=for-the-badge&logo=googlechrome&logoColor=0b1026)](https://enjoythelegend.github.io/)
 [![Repositórios](https://img.shields.io/badge/REPOSIT%C3%93RIOS-f0326e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EnjoytheLegenD?tab=repositories)
 [![OpenCode Go](https://img.shields.io/badge/OPENCODE_GO-8b5cf6?style=for-the-badge&logo=terminal&logoColor=white)](https://opencode.ai/go)
 
-<a href="https://enjoythelegend.github.io/EnjoytheLegenD/">
+<a href="https://enjoythelegend.github.io/">
   <img src="assets/preview.png" alt="Painel" width="100%">
 </a>
 
@@ -23,7 +23,7 @@ biblioteca de conhecimento, repositórios, modelos e consumo de tokens.
 
 | Link | O quê |
 |---|---|
-| **[Painel](https://enjoythelegend.github.io/EnjoytheLegenD/)** | interface completa |
+| **[Painel](https://enjoythelegend.github.io/)** | interface completa |
 | [opencode-brain](https://github.com/EnjoytheLegenD/opencode-brain) | conhecimento, skills e agentes (privado) |
 | [ai-command-center](https://github.com/EnjoytheLegenD/ai-command-center) | central local e especificação (privado) |
 
